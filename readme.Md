@@ -13,29 +13,29 @@ Welcome to the LeetCode 30 Days Challenge in C++! This repository is created to 
 
 ## Directory Structure
 
-- **Day 1:**
+- Day 1:
   - `problem_name_1.cpp` (Your C++ solution for Day 1)
-- **Day 2:**
+- Day 2:
   - `problem_name_2.cpp` (Your C++ solution for Day 2)
 - ...
-- **Day 30:**
+- Day 30:
   - `problem_name_30.cpp` (Your C++ solution for Day 30)
 
 ## Guidelines
 
-1. **File Naming:**
+1. File Naming:
     - Name your C++ files following the format `problem_name_day.cpp`. For example, `two_sum_1.cpp` for Day 1's Two Sum problem.
 
-2. **Code Comments:**
+2. Code Comments:
     - Include comments to explain your thought process and approach in the C++ code.
 
-3. **Discussion:**
+3. Discussion:
     - Engage in discussions with others. Share your approach and learn from different perspectives.
 
-4. **Efficiency:**
+4. Efficiency:
     - Aim for efficient solutions. Discuss and optimize your C++ code where possible.
 
-5. **Contribute:**
+5. Contribute:
     - Feel free to contribute additional test cases, explanations, or alternative C++ solutions.
 
 ## Getting Started
